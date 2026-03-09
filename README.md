@@ -117,7 +117,7 @@ Customer-Churn-Prediction
 
 1.Clone the repository
 
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/chinnarasan007/Customer_Churn_Prediction/tree/main
 
 2.Install dependencies
 
